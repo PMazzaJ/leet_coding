@@ -1,6 +1,6 @@
 # LeetCode Study Solutions
 
-This repository is part of my personal study and growth as a developer. Here you will find **my own solutions** to [LeetCode](https://leetcode.com/) exercises.
+Here you will find **my own solutions** to [LeetCode](https://leetcode.com/) exercises.
 
 ## Structure
 
