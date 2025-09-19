@@ -1,4 +1,4 @@
-# LeetCode: Length of Last Word
+# LeetCode: Length of Last Word - https://leetcode.com/problems/length-of-last-word/
 #
 # Notes:
 # 1. converted the string to an array using split.
