@@ -1,6 +1,6 @@
 # LeetCode Study Solutions
 
-This repository was created for study purposes. Here you will find my solutions to [LeetCode](https://leetcode.com/) exercises.
+This repository is part of my personal study and growth as a developer. Here you will find **my own solutions** to [LeetCode](https://leetcode.com/) exercises.
 
 ## Structure
 
@@ -25,12 +25,13 @@ This repository was created for study purposes. Here you will find my solutions 
 ## Usage
 
 Open the file for the exercise you want to check.  
-Each file contains the source code for the solution and, in some cases, comments about the approach used.
+Each file contains the source code for the solution and, in some cases, comments about the approach I used.
 
 ## Notes
 
+- These are **my solutions**, reflecting my understanding and approach at the time I solved each problem.
+- The solutions are not necessarily the most optimal or the best possible; they simply show how I arrived at my answer.
 - This repository is for personal study and practice only.
 - Solutions may be updated or improved over time.
-- There is no guarantee that all solutions are the most optimized.
 
 ---
